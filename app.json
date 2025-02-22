@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "SuperHero",
+    "slug": "SuperHero",
+    "privacy": "public",
+    "sdkVersion": "37.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "android":{},
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "description": "Donate Blood Save Life"
+  }
+}
